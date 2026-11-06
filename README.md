@@ -40,10 +40,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushKhatri-Dev&bg_color=1c0b14&color=f6e7dc&line=ee7ea3&point=e6b567&area=true&area_color=a8325f&hide_border=true&radius=16" alt="Contribution graph" width="98%">
-
-<br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushKhatri-Dev/AyushKhatri-Dev/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushKhatri-Dev/AyushKhatri-Dev/output/github-snake.svg">
